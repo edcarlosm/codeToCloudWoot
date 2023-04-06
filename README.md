@@ -77,8 +77,8 @@ sudo cwctl -r
 Importe o banco de dados no MySQL;
 Dentro da Pasta DATABASE
 
-o usuário de acesso é: superadmin
-a senha de acesso é: admin
+o usuário de acesso é: superadmin<br>
+a senha de acesso é: admin<br>
 
 Altere posteriormente  a senha!
 
